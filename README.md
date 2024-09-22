@@ -178,8 +178,6 @@ In Home view, all the views button will be available. User will land on specific
 ## Support Page
 <img src = "C:\Users\asus\Pictures\Screenshots\Screenshot 2024-09-22 140420.png" alt = "Support Page"/>
 
-You can find the full report file here : [Report](docs/CONTRIBUTING.md)
-
 ## Project Outcome
 1. Net Sales in 2022 Fiscal Year is $ 3.74 Billion which is the most in all the years of AtliQ.
 2. Dec 2021 recorded the highest Net Sales of the month in the history of AtliQ Hardware.
