@@ -6,6 +6,8 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiYTMwYmJhYjMtNmZjNi00NDkzLTgyYmEtNTU4ZTAwOGFhN2U5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+Visit My Presentation Video on LinkedIn -> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7243549037071609858/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/update/urn:li:activity:7243549037071609858/" height="30" width="40" /></a>
+
 ## Tech stacks
 * SQL
 * PowerBi Desktop
