@@ -136,7 +136,7 @@ Fact table : It will have the data about the transactions
 * Poor data modeling affects the over all performance of the report.
 * Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog
 * In this project, we have followed Snowfall data modeling method.
-<img src = "C:\Users\asus\Pictures\Screenshots\Screenshot 2024-09-20 163838.png" alt = "Database Model"/>
+![Data Model](https://github.com/user-attachments/assets/616d21e3-a889-4d5b-b4d7-d9ab198052a0)
 
 
 Dashboard designing
@@ -155,28 +155,28 @@ In Home view, all the views button will be available. User will land on specific
 * Support
 
 ## Home Page
-<img src = "C:\Users\asus\Pictures\Screenshots\Screenshot 2024-09-22 135932.png" alt = "Home Page"/>
+![Home Page](https://github.com/user-attachments/assets/8e671c90-c7bd-40ac-8756-e7347e7bde4a)
 
 ## Info Page
-<img src = "C:\Users\asus\Pictures\Screenshots\Screenshot 2024-09-22 140214.png" alt = "Info Page"/>
+![Info Page](https://github.com/user-attachments/assets/9e7b76d7-2357-4159-b4dc-dc953589ca9e)
 
 ## Finance View
-<img src = "C:\Users\asus\Pictures\Screenshots\Screenshot 2024-09-22 140122.png" alt = "Finance View"/>
+![Finance View](https://github.com/user-attachments/assets/a1637966-3671-40c2-9cbb-c7b7be1abcd1)
 
 ## Sales View
-<img src = "C:\Users\asus\Pictures\Screenshots\Screenshot 2024-09-22 140249.png" alt = "Sales View"/>
+![Sales View](https://github.com/user-attachments/assets/5d3056bb-6b39-4f6b-bded-93476146343f)
 
 ## Marketing View
-<img src = "C:\Users\asus\Pictures\Screenshots\Screenshot 2024-09-22 140304.png" alt = "Marketing View"/>
+![Marketing View](https://github.com/user-attachments/assets/7df5b825-00e3-47a3-b956-581212233fed)
 
 ## Supply chain View
-<img src = "C:\Users\asus\Pictures\Screenshots\Screenshot 2024-09-22 140337.png" alt = "Supply Chain View"/>
+![Supply CHain View](https://github.com/user-attachments/assets/0516cbe2-765c-4f0c-913c-1c398c954486)
 
 ## Executive View
-<img src = "C:\Users\asus\Pictures\Screenshots\Screenshot 2024-09-22 140354.png" alt = "Executive View"/>
+![Executive View](https://github.com/user-attachments/assets/b2c4fa0d-d8bc-456e-9c78-7d0f33f96d48)
 
 ## Support Page
-<img src = "C:\Users\asus\Pictures\Screenshots\Screenshot 2024-09-22 140420.png" alt = "Support Page"/>
+![Support Page](https://github.com/user-attachments/assets/1aa0d5d8-575a-43b0-b321-9c0c7ac4c4c9)
 
 ## Project Outcome
 1. Net Sales in 2022 Fiscal Year is $ 3.74 Billion which is the most in all the years of AtliQ.
