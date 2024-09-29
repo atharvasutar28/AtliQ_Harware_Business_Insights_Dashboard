@@ -136,7 +136,7 @@ Fact table: It will have the data about the transactions
 * Data modeling plays a vital role and is considered as the basement of the report. All the visuals will be built upon the data model.
 * Poor data modeling affects the overall performance of the report.
 * Following Good practices of data modeling is a must. Refer to this page to get to know the good practices of Blog
-* In this project, we have followed the Snowflake data modeling method.
+* In this project, we have followed the Snowflake data modeling schema.
 ![Data Model](https://github.com/user-attachments/assets/616d21e3-a889-4d5b-b4d7-d9ab198052a0)
 
 
