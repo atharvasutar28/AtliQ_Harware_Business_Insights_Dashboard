@@ -24,7 +24,7 @@ Visit My Presentation Video on LinkedIn -> <a href="https://www.linkedin.com/fee
 * Using the divide function to prevent zero division errors
 * Creating date table using m language
 * Dynamic titles based on the applied filters
-* Using KPI indicators
+* Using KPIs
 * Conditional formatting of the values in visuals using icons or background color
 * Data validation techniques
 * PowerBi services
